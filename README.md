@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lazer em Ribeirão Preto</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(180deg, #f9f9f9, #e3e9ff);
+        }
+
+        header {
+            background: linear-gradient(120deg, #6a5acd, #836fff, #483d8b);
+            color: white;
+            text-align: center;
+            padding: 60px 20px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        header h1 {
+            font-size: 2.6em;
+            font-weight: 600;
+            margin: 0;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1100px;
+            margin: auto;
+        }
+
+        .section {
+            background: white;
+            padding: 30px;
+            margin-bottom: 35px;
+            border-radius: 18px;
+            border-left: 8px solid #6a5acd;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            transition: 0.3s ease;
+        }
+
+        .section:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 6px 25px rgba(0,0,0,0.15);
+        }
+
+        h2 {
+            color: #4a3fbf;
+            margin-top: 0;
+        }
+
+        .image-row {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        img {
+            width: 100%;
+            max-width: 460px;
+            border-radius: 14px;
+            margin: 15px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+            transition: 0.3s ease;
+        }
+
+        img:hover {
+            transform: scale(1.03);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.25);
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #6a5acd;
+            color: white;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Lazer em Ribeirão Preto: O que temos e o que podemos melhorar</h1>
+
+    <div class="section">
+        <p>Ribeirão Preto é uma cidade do interior de São Paulo muito conhecida por seu desenvolvimento, educação, comércio, serviços e também pelas opções de lazer. Ao longo dos anos, a cidade tem investido em espaços culturais, áreas verdes e eventos que atraem não só os moradores, mas também turistas de outras regiões. No entanto, apesar de tantas opções, ainda existem pontos que podem ser melhorados para garantir mais acesso e qualidade de vida para todos.</p>
+    </div>
+
+    <div class="section">
+        <h2>Parques e áreas verdes</h2>
+        <p>Os parques públicos são uma das formas de lazer mais acessíveis, gratuitas e importantes para o bem-estar da população. Ribeirão Preto tem vários espaços desse tipo, embora alguns precisem de melhorias.</p>
+        <p>Um dos mais conhecidos é o Parque Municipal Dr. Luis Carlos Raya, localizado na zona sul. Muito frequentado por famílias e esportistas, ele conta com pistas de caminhada, lagos, cachoeiras artificiais e áreas para descanso. Porém, há relatos de iluminação precária, o que obriga o fechamento do parque no início da noite, limitando seu uso.</p>
+        <p>Outro destaque é o Parque das Artes, no Jardim Botânico, um espaço moderno, bem cuidado, com trilhas, pontes sobre lagos e paisagens naturais ideais para quem busca lazer gratuito e tranquilidade ao ar livre. É um ótimo exemplo de parceria entre o setor público e privado para manter a qualidade do espaço.</p>
+        <p>O tradicional Parque Prefeito Luiz Roberto Jábali, mais conhecido como Parque do Curupira, também é muito visitado, principalmente nos fins de semana. Localizado em uma área central, ele possui pista de caminhada, espaço para andar de bicicleta, lagos e uma extensa área verde. O local já recebeu grandes eventos e é um símbolo do lazer ribeirão-pretano, embora em alguns momentos sofra com falta de manutenção.</p>
+        <p>Outro espaço importante é o Bosque e Zoológico Fábio Barreto, localizado próximo ao centro da cidade. Com entrada gratuita, o bosque abriga o zoológico municipal e é muito procurado por famílias e escolas. O espaço combina lazer, natureza e educação ambiental.</p>
+        <p>Por outro lado, o Parque Ecológico Maurílio Biagi, na região central, apesar de sua localização privilegiada e potencial, apresenta sinais de abandono em algumas épocas. É um local que já foi muito valorizado, mas atualmente precisa de revitalização, com melhor limpeza, conservação da vegetação e segurança para atrair novamente os visitantes.</p>
+
+ 
+    </div>
+
+    <div class="section">
+        <h2>Shoppings como opção de lazer</h2>
+        <p>Os shoppings centers de Ribeirão Preto também são bastante frequentados, não apenas para compras, mas como locais de lazer e convivência. O Ribeirão Shopping, por exemplo, é um dos maiores da região e oferece cinema, praça de alimentação, eventos culturais, feiras de livros e exposições artísticas. Outros shoppings como o Novo Shopping, Shopping Iguatemi e o Santa Úrsula também oferecem entretenimento com ar-condicionado, segurança e acesso fácil.</p>
+        <p>Embora os estacionamentos não sejam gratuitos, os shoppings costumam oferecer eventos gratuitos ou com entrada acessível, como apresentações musicais, exposições e atividades infantis, principalmente em datas comemorativas como Natal, Páscoa e férias escolares.</p>
+
+
+    </div>
+
+    <div class="section">
+        <h2>Cultura e eventos gratuitos</h2>
+        <p>Ribeirão Preto possui espaços culturais importantes que promovem acesso à arte e cultura. Um dos mais conhecidos é o Theatro Pedro II, um dos maiores teatros da América Latina. Ele recebe apresentações de música, teatro, dança e eventos culturais, alguns com entrada gratuita ou com preços populares, através de projetos sociais e incentivos culturais.</p>
+        <p>Outro espaço importante é o Teatro de Arena, ao ar livre, que oferece shows, espetáculos e atividades culturais acessíveis ao público, principalmente em festivais e programas da Secretaria da Cultura.</p>
+        <p>Além disso, a cidade conta com espaços como o Sesc Ribeirão, que realiza oficinas, peças teatrais, shows e atividades esportivas, muitas vezes de forma gratuita ou com valor simbólico.</p>
+
+ 
+    </div>
+
+    <div class="section">
+        <h2>Eventos e grandes shows</h2>
+        <p>Ribeirão Preto também é muito conhecida pelos grandes eventos que acontecem durante o ano. Um dos mais famosos é o Ribeirão Rodeo Music, realizado no Parque Permanente de Exposições, que atrai milhares de pessoas com shows sertanejos, montaria e diversas atrações. Outro evento importante é a Feira do Livro, que além da venda de livros, oferece uma programação gratuita com palestras, contação de histórias e oficinas para estudantes.</p>
+        <p>A cidade também sedia o João Rock, um dos maiores festivais de rock nacional, e outros eventos como feiras gastronômicas, festas juninas, exposições de carros antigos, festivais de dança e cinema, entre outros.</p>
+
+
+    </div>
+
+    <div class="section">
+        <h2>O que pode melhorar</h2>
+        <p>Apesar de tantas opções de lazer, Ribeirão Preto ainda enfrenta muitos desafios. Um dos principais problemas é a falta de manutenção regular em diversos espaços públicos. O Parque Ecológico Maurílio Biagi, por exemplo, já foi muito frequentado, mas hoje apresenta sinais de abandono, com vegetação alta, lixo acumulado e estruturas deterioradas.</p>
+        <p>A iluminação precária também é um problema comum, principalmente nos parques, como o Parque Raya, que precisa encerrar suas atividades ao entardecer por falta de luz adequada, o que reduz o tempo de lazer para quem trabalha ou estuda durante o dia.</p>
+        <p>A segurança é outro ponto que preocupa. Em alguns locais há relatos de vandalismo e até assaltos, o que afasta os frequentadores, especialmente em horários de menor movimento.</p>
+        <p>Além disso, muitos bairros mais afastados do centro não possuem praças ou parques bem estruturados, fazendo com que o acesso ao lazer ainda seja desigual. Enquanto bairros centrais têm shoppings, parques e eventos, regiões periféricas contam apenas com áreas sem estrutura ou abandonadas.</p>
+        <p>A cidade também perdeu projetos importantes, como a ciclofaixa de lazer, que permitia o uso de ruas por ciclistas e pedestres aos domingos. O projeto foi suspenso por tempo indeterminado, retirando mais uma opção gratuita de atividade ao ar livre.</p>
+        <p>Outra questão é a falta de acessibilidade. Muitos espaços ainda não têm rampas, pisos táteis ou banheiros adaptados, dificultando o uso por pessoas com deficiência, idosos ou famílias com carrinhos de bebê.</p>
+        <p>Por fim, o transporte público nos fins de semana e à noite é limitado, o que torna difícil o deslocamento até os principais espaços de lazer da cidade, especialmente para quem depende de ônibus.</p>
+        <p>Mesmo com esses desafios, é importante destacar que Ribeirão Preto oferece muitas oportunidades de lazer de forma gratuita ou acessível, o que contribui para o bem-estar da população. Melhorar esses espaços, torná-los mais seguros, acessíveis e bem distribuídos entre os bairros é uma forma de promover inclusão, saúde, convivência e mais qualidade de vida para todos.</p>
+    </div>
+
+  <section class="participants">
+    <h2>Participantes do Grupo</h2>
+    <ul>
+      <li>Felipe Lyra</li>
+      <li>Lucas Borella</li>
+      <li>Bernardo Lima</li>
+      <li>Victor Silva</li>
+      <li>Benicio Braga</li>
+      <li>Gabriel Annibal</li>
+      <li>José Arantes</li>
+      <li>Lucas Campos</li>
+    </ul>
+  </section>
+
+</body>
+</html>
